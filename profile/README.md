@@ -4,7 +4,7 @@
 
 A plain struct, your defaults, and the sources to read. Sources apply in the order you give them, so the last one wins.
 
-[**go-cnfg.com**](https://go-cnfg.com) · [godoc](https://pkg.go.dev/github.com/go-cnfg/cnfg)
+[**Website**](https://go-cnfg.github.io/website) · [godoc](https://pkg.go.dev/github.com/go-cnfg/cnfg)
 
 ## Repositories
 
@@ -57,4 +57,4 @@ func main() {
 go get github.com/go-cnfg/cnfg@latest
 ```
 
-For drop-in directories, a config file named by a flag, strict sources and validation, see [go-cnfg.com](https://go-cnfg.com).
+For drop-in directories, a config file named by a flag, strict sources and validation, see [go-cnfg.github.io/website](https://go-cnfg.github.io/website).
